@@ -246,4 +246,5 @@ while play:
     restart()
     pygame.display.update()
     clock.tick(FPS)
+    #qwert
 pygame.quit()
